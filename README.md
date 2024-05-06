@@ -28,7 +28,7 @@ The information that user needs to provide are:
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
 
-### Installation
+## Installation
 
 1. Clone the repo
    ```sh
@@ -47,19 +47,20 @@ To get a local copy up and running follow these simple example steps.
    const SECRET_KEY = 'ENTER YOUR KEY';
    ```
 
-### Run the Project
-```sh
+## Run the Project
+
+   ```sh
    python manage.py runserver
    ```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 <!-- CONTRIBUTING -->
 ## Output/ Demo
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-<!-- CONTRIBUTING -->
+
+
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
@@ -73,5 +74,5 @@ Don't forget to give the project a star! Thanks again!
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 

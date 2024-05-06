@@ -1,1 +1,1 @@
-web: gunicorn Loner.wsgi
+web: gunicorn Loaner.wsgi

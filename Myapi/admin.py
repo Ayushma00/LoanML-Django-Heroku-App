@@ -1,4 +1,5 @@
 from django.contrib import admin
-from . models import approval
+from .models import approval
+
 # Register your models here.
 admin.site.register(approval)
