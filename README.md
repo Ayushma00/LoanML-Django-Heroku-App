@@ -1,7 +1,5 @@
-
+## Loan Approval Web Application
 <!-- ABOUT THE PROJECT -->
-## About The Project
-
 
 This is a Loan Approval Web application utilizing Machine Learning and the Django Framework, now deployed on Heroku.
 This system inputs the informations from the user and based on this information deep learning model runs the input which predics whether the user is capable of getting loan or not.
@@ -57,6 +55,10 @@ To get a local copy up and running follow these simple example steps.
 
 <!-- CONTRIBUTING -->
 ## Output/ Demo
+
+
+
+https://github.com/Ayushma00/django_heruko_using_ML/assets/34135400/9384b383-453f-43ee-8be2-7464fca4ba31
 
 
 
