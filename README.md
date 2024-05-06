@@ -40,9 +40,9 @@ To get a local copy up and running follow these simple example steps.
    ```sh
    pip install -r requirements.txt
    ```
-4. Enter your SECRET_KEY in `Loan/settings.py`
+4. Enter your SECRET_KEY in `.env`
    ```sh
-   const SECRET_KEY = 'ENTER YOUR KEY';
+    SECRET_KEY = 'ENTER YOUR KEY'
    ```
 
 ## Run the Project
